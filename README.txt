@@ -1,35 +1,41 @@
-🏥 SFDA PRODUCTS DATABASE DASHBOARD
-====================================
+# 🏥 SFDA Medical Products Database
 
-FEATURES:
-- Search 236,680+ medical products
-- Interactive dashboard with charts
-- Filter by classification, manufacturer, status
-- Export to Excel/CSV
-- Beautiful modern interface
-- Share with others on same network
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Flask](https://img.shields.io/badge/Flask-2.3+-green.svg)](https://flask.palletsprojects.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Production-brightgreen.svg)]()
 
-HOW TO USE:
-1. Double-click SFDA_Dashboard.exe
-2. Browser will open automatically
-3. Start searching and exploring!
+A powerful, user-friendly web application for searching and analyzing Saudi Food and Drug Authority (SFDA) classified medical products. Built with Python and Flask, featuring real-time search, interactive charts, and advanced filtering capabilities.
 
-FOR OTHER USERS:
-- After starting, look for the Network URL
-- Share that address with others on same WiFi
-- They can access without installing anything
+---
 
-REQUIREMENTS:
-- Windows 7/8/10/11
-- No Python installation needed
-- No internet required (offline use)
+## 📊 Features
 
-FILES INCLUDED:
-- SFDA_Dashboard.exe (main program)
-- sfda_products.xlsx (your data)
+### 🔍 Core Functionality
+- Smart search across all fields (SN, Brand, Classification, Manufacturer, Status)
+- Interactive charts for product insights
+- Advanced filtering options
+- Fully responsive design (desktop, tablet, mobile)
+- Network sharing for team access
 
-SUPPORT:
-If you have issues, make sure:
-1. sfda_products.xlsx is in the same folder
-2. Your firewall allows the app
-3. You have write permission in the folder
+### ⚙️ Technical Highlights
+- Optimized for large datasets (200K+ records)
+- Real-time search with pagination
+- SQLite database integration
+- Modern UI with smooth animations
+- Color-coded status badges
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Python 3.7+
+- SFDA Excel file (`sfda_products.xlsx`)
+
+### Installation
+
+#### 1. Clone Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/sfda-products-database.git
+cd sfda-products-database
