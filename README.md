@@ -53,5 +53,6 @@ SFDA_MD_Databases/
 
 ## Contact Information
 - For questions or suggestions, please contact:
-  - Name: Jamal
-  - Email: jamal@example.com
+  - Name: Jamaluddin
+  - Email: jamal.analyst7@gmail.com
+
