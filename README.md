@@ -1,5 +1,7 @@
 # SFDA Medical Products Database
 
+A powerful, user-friendly web application for searching and analyzing Saudi Food and Drug Authority (SFDA) classified medical products. Built with Python and Flask, featuring real-time search, interactive charts, and advanced filtering capabilities.
+
 ## Features
 - Comprehensive database for medical products.
 - Search functionality for easy access to product information.
