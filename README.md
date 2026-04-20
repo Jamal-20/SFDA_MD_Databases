@@ -1,14 +1,14 @@
-# SFDA Medical Products Database
+# 🏥 SFDA Medical Products Database
 
 A powerful, user-friendly web application for searching and analyzing Saudi Food and Drug Authority (SFDA) classified medical products. Built with Python and Flask, featuring real-time search, interactive charts, and advanced filtering capabilities.
 
-## Features
+## 📖 Features
 - Comprehensive database for medical products.
 - Search functionality for easy access to product information.
 - User-friendly interface for data entry and modification.
 - Support for multiple data formats for import and export.
 
-## Installation
+## 🛠️ Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jamal-20/SFDA_MD_Databases.git
@@ -21,15 +21,19 @@ A powerful, user-friendly web application for searching and analyzing Saudi Food
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
+4. Build Executable
+```bash
+   pip install pyinstaller
+   pyinstaller --onefile --name=SFDA_Database --add-data=sfda_products.xlsx;. sfda_complete.py
+   ```
+## 🎯 Usage
 - To start the application, run the following command:
   ```bash
   python app.py
   ```
-- Access the application at `http://localhost:5000` in your web browser.
+- 🌐 Access the application at `(http://127.0.0.1:5000)` in your web browser.
 
-## Project Structure
+## 📁 Project Structure
 ```
 SFDA_MD_Databases/
 |-- app.py          # Main application file
@@ -37,24 +41,14 @@ SFDA_MD_Databases/
 |-- requirements.txt # Required Python packages
 |-- README.md       # Documentation file
 ```
+📊 Performance Benchmarks
 
-## Configuration
-- Configuration settings are located in `config.py`. 
-- Update the database URI and other necessary parameters before running the application.
 
-## Troubleshooting
-- If you encounter issues:
-  1. Ensure all dependencies are installed.
-  2. Check the terminal for error messages.
-  3. Consult the [GitHub Issues page](https://github.com/Jamal-20/SFDA_MD_Databases/issues) for similar problems.
+## 🤝 Acknowledgments
+[Saudi Food and Drug Authority (SFDA)](https://www.sfda.gov.sa/en) for data classification standards
 
-## Contributing Guidelines
-- Fork the repository and create a new branch for each feature or bug fix.
-- Ensure your code is well-documented and tested.
-- Submit a pull request with a clear description of your changes.
-
-## Contact Information
+## 👤 Contact Information  
 - For questions or suggestions, please contact:
-  - Name: Jamaluddin
-  - Email: jamal.analyst7@gmail.com
+- LinkedIn: [Jamaluddin|R&D|BD|MarketAccess](www.linkedin.com/in/jamaluddin-microbiology-qa)
+  
 
