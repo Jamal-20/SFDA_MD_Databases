@@ -1,12 +1,16 @@
 # 🏥 SFDA Medical Products Database
 
-A powerful, user-friendly web application for searching and analyzing Saudi Food and Drug Authority (SFDA) classified medical products. Built for real-time search, interactive charts, and advanced filtering capabilities.
+A powerful, user-friendly web application for searching and analyzing Saudi Food and Drug Authority (SFDA) classified medical products. The SFDA Medical Products Database is not just a search tool — it is a market intelligence engine designed to transform regulatory data into strategic insights.
+
+This project was developed to support market access teams, regulatory specialists, and procurement decision-makers by providing:
 
 ## 📖 Features
-- Comprehensive database for medical products.
-- Search functionality for easy access to product information.
-- User-friendly interface for data entry and modification.
-- Support for multiple data formats for import and export.
+- Structured visibility of SFDA-listed products
+- Competitive landscape analysis
+- Data-driven filtering and segmentation
+- Real-time exploration of large-scale datasets
+
+The platform bridges the gap between raw regulatory data and business decision-making, enabling organizations to move from data collection → insight generation → strategic action.
 
 ## 🛠️ Installation
 1. Clone the repository:
