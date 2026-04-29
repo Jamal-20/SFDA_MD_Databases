@@ -4,13 +4,22 @@ A powerful, user-friendly web application for searching and analyzing Saudi Food
 
 This project was developed to support market access teams, regulatory specialists, and procurement decision-makers by providing:
 
-## 📖 Features
-- Structured visibility of SFDA-listed products
-- Competitive landscape analysis
-- Data-driven filtering and segmentation
-- Real-time exploration of large-scale datasets
+-----
+## 🖥️ Desktop Environment / Interface
 
-The platform bridges the gap between raw regulatory data and business decision-making, enabling organizations to move from data collection → insight generation → strategic action.
+![SFDA Dashboard](SFDA Dashboard.png)
+
+**Enterprise-grade dashboard for SFDA medical product intelligence and regulatory analysis.**
+
+### 🎛️ Interface Overview
+- 🔐 Local & secure (no cloud exposure)
+- 🛡️ Controlled data visibility for compliance
+- 📊 Active vs Inactive product tracking
+- 🏭 Manufacturer & country traceability
+- 🧾 Classification-based regulatory insights
+----
+
+📖 The platform bridges the gap between raw regulatory data and business decision-making, enabling organizations to move from data collection → insight generation → strategic action.
 
 ## 🛠️ Installation
 1. Clone the repository:
