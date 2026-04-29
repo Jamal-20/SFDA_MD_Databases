@@ -7,7 +7,7 @@ This project was developed to support market access teams, regulatory specialist
 -----
 ## 🖥️ Desktop Environment / Interface
 
-![SFDA Dashboard](SFDA Dashboard.png)
+![SFDA Dashboard](SFDA_Dashboard.png)
 
 **Enterprise-grade dashboard for SFDA medical product intelligence and regulatory analysis.**
 
